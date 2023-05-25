@@ -12,6 +12,7 @@
 
 ### FE
 - React, TypeScript
+- Styled-Components, Chakra
 - Storybook
 - Vite, Vitest
 - Jotai, SWR
