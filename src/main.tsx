@@ -8,14 +8,14 @@ import { HelmetProvider } from "react-helmet-async";
 import { BrowserRouter } from "react-router-dom";
 
 ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
-  <React.StrictMode>
-    <ThemeProvider theme={theme}>
-      <BrowserRouter>
-        <GlobalStyle />
-        <HelmetProvider>
-          <App />
-        </HelmetProvider>
-      </BrowserRouter>
-    </ThemeProvider>
-  </React.StrictMode>
+  // <React.StrictMode>
+  <ThemeProvider theme={theme}>
+    <BrowserRouter>
+      <GlobalStyle />
+      <HelmetProvider>
+        <App />
+      </HelmetProvider>
+    </BrowserRouter>
+  </ThemeProvider>
+  // </React.StrictMode>
 );
