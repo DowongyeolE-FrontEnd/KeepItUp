@@ -3915,6 +3915,11 @@ isexe@^2.0.0:
   resolved "https://registry.yarnpkg.com/isexe/-/isexe-2.0.0.tgz#e8fbf374dc556ff8947a10dcb0572d633f2cfa10"
   integrity sha512-RHxMLp9lnKHGHRng9QFhRCMbYAcVpn69smSGcq3f36xjgVVWThj4qqLbTLlq7Ssj8B+fIQ1EuCEGI2lKsyQeIw==
 
+jotai@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/jotai/-/jotai-2.1.0.tgz#b1a9525345518453802e4a64d99e2800598bab76"
+  integrity sha512-fR82PtHAmEQrc/daMEYGc4EteW96/b6wodtDSCzLvoJA/6y4YG70er4hh2f8CYwYjqwQ0eZUModGfG4DmwkTyQ==
+
 "js-tokens@^3.0.0 || ^4.0.0", js-tokens@^4.0.0:
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/js-tokens/-/js-tokens-4.0.0.tgz#19203fb59991df98e3a287050d4647cdeaf32499"
@@ -4820,6 +4825,11 @@ styled-components@^6.0.0-rc.2:
     shallowequal "^1.1.0"
     stylis "^4.2.0"
     tslib "^2.5.0"
+
+styled-reset@^4.4.7:
+  version "4.4.7"
+  resolved "https://registry.yarnpkg.com/styled-reset/-/styled-reset-4.4.7.tgz#6ce97d342d4d7b30b107fc2c5ba49e60da7a90cb"
+  integrity sha512-OxtLqP9/2mXoI8WYa0NrJuTyvVziT+fi0Dp8go5CgTGzSVPQVo5ggaxl1tK+l08ynrVImKswSiDJFaVHxBKJuQ==
 
 stylis@4.2.0, stylis@^4.2.0:
   version "4.2.0"

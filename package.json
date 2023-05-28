@@ -14,9 +14,11 @@
     "@emotion/react": "^11.11.0",
     "@emotion/styled": "^11.11.0",
     "framer-motion": "^10.12.16",
+    "jotai": "^2.1.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "styled-components": "^6.0.0-rc.2",
+    "styled-reset": "^4.4.7",
     "swr": "^2.1.5"
   },
   "devDependencies": {
