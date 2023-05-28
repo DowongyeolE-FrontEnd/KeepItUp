@@ -1,4 +1,4 @@
-import AuthPage from "@/pages/auth";
+import AuthPage from "@/pages/AuthPage";
 import userAtom from "@/store/useUserStore";
 import { useAtomValue } from "jotai";
 import { ReactElement } from "react";

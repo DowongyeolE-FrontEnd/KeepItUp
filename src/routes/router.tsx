@@ -1,4 +1,4 @@
-import MainPage from "@/pages/main";
+import MainPage from "@/pages/MainPage";
 import MyPage from "@/pages/myPage";
 import ProtectAuth from "@components/ProtectAuth";
 import { Route, Routes } from "react-router-dom";
