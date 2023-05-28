@@ -9,7 +9,8 @@
 
 ## 기술 스택
 ### DB
-![image](https://github.com/DowongyeolE-FrontEnd/KeepItUp/assets/60952506/ec6691ce-6159-46e6-b30d-13b656a5fc38)
+![KeepItUp](https://github.com/DowongyeolE-FrontEnd/KeepItUp/assets/60952506/e1327f9b-c4d2-4a6b-87b0-b095bff7a4cf)
+
 
 <br/>
 
